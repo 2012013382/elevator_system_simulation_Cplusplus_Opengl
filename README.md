@@ -8,4 +8,4 @@ This is a elevator system, ten elevators and ten floors. Some people enterd the 
 ## others
 This projct is a C++ practice in my freshman summer vacation, so the code is not elegant. 
 
-I upload it to github only for storage. Any questions please let me kown, but I can't sure whether I can answer them or not for the old code in several years ago.
+I upload it to github only for storage. Any questions please let me kown, but I can't sure whether I can answer them or not for the old code several years ago.
